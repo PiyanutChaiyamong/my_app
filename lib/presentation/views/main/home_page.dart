@@ -12,7 +12,7 @@ class _HomePageState extends State<HomePage> {
   Widget build(BuildContext context) {
     return Column(
       children: [
-        Text('Welcome to the Home Page!'),
+        Text('หน้าแรก'),
       ],
     );
   }
