@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:nong_gmail/presentation/views/main/home_page.dart';
+import 'package:nong_gmail/presentation/views/main/root_page.dart';
 
 class SplashPage extends StatefulWidget {
   const SplashPage({super.key});
